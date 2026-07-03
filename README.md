@@ -100,10 +100,10 @@ These folders contain mixed practice problems, assignments, and mini-projects th
    
    ```
 
-**Run the executable:**
-
-   * **Windows:** `output_name.exe`
-   * **macOS/Linux:** `./output_name`
+   **Run the executable:**
+   
+      * **Windows:** `output_name.exe`
+      * **macOS/Linux:** `./output_name`
 
 ---
 
