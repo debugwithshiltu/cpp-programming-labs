@@ -88,24 +88,24 @@ These folders contain mixed practice problems, assignments, and mini-projects th
 
 
 2. **Navigate into a specific folder:**
-```markdown
-**Navigate into a specific folder:**
-```bash
-cd 001_Lab_of_Array_use
+   ```markdown
 
-```
+   ```bash
+   cd 001_Lab_of_Array_use
+   
+   ```
 
 **Compile the C++ file** (Using G++ compiler):
 
-```bash
-g++ -o output_name filename.cpp
-
-```
+   ```bash
+   g++ -o output_name filename.cpp
+   
+   ```
 
 **Run the executable:**
 
-* **Windows:** `output_name.exe`
-* **macOS/Linux:** `./output_name`
+   * **Windows:** `output_name.exe`
+   * **macOS/Linux:** `./output_name`
 
 ---
 
@@ -113,7 +113,7 @@ g++ -o output_name filename.cpp
 
 **Shiltu Dey**
 
-* **GitHub:** [@debugwithshiltu](https://github.com/debugwithshiltu)
+   * **GitHub:** [@debugwithshiltu](https://github.com/debugwithshiltu)
 
 ```
 
