@@ -84,3 +84,38 @@ These folders contain mixed practice problems, assignments, and mini-projects th
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/debugwithshiltu/cpp-programming-labs.git](https://github.com/debugwithshiltu/cpp-programming-labs.git)
+
+
+
+### ⚪ Navigate into a specific folder:
+
+```markdown
+**Navigate into a specific folder:**
+```bash
+cd 001_Lab_of_Array_use
+
+```
+
+**Compile the C++ file** (Using G++ compiler):
+
+```bash
+g++ -o output_name filename.cpp
+
+```
+
+**Run the executable:**
+
+* **Windows:** `output_name.exe`
+* **macOS/Linux:** `./output_name`
+
+---
+
+## 👤 Author
+
+**Shiltu Dey**
+
+* **GitHub:** [@debugwithshiltu](https://github.com/debugwithshiltu)
+
+```
+
+```
