@@ -93,7 +93,7 @@ These folders contain mixed practice problems, assignments, and mini-projects th
      cd 001_Lab_of_Array_use
    ```
 
-**Compile the C++ file** (Using G++ compiler):
+   **Compile the C++ file** (Using G++ compiler):
 
    ```bash
    g++ -o output_name filename.cpp
