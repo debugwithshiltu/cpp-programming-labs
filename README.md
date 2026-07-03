@@ -85,6 +85,7 @@ These folders contain mixed practice problems, assignments, and mini-projects th
    ```bash
    git clone [https://github.com/debugwithshiltu/cpp-programming-labs.git](https://github.com/debugwithshiltu/cpp-programming-labs.git)
 
+or
 
 
 2. **Navigate into a specific folder:**
