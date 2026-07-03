@@ -87,8 +87,7 @@ These folders contain mixed practice problems, assignments, and mini-projects th
 
 
 
-### ⚪ Navigate into a specific folder:
-
+2. **Navigate into a specific folder:**
 ```markdown
 **Navigate into a specific folder:**
 ```bash
