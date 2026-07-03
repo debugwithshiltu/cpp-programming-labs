@@ -88,11 +88,9 @@ These folders contain mixed practice problems, assignments, and mini-projects th
 
 
 2. **Navigate into a specific folder:**
-   ```markdown
 
-   ```bash
-   cd 001_Lab_of_Array_use
-   
+   ```markdown
+     cd 001_Lab_of_Array_use
    ```
 
 **Compile the C++ file** (Using G++ compiler):
